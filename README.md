@@ -5,4 +5,4 @@ this repo is for personal growth while still being documented for others to lear
 
 12 sep 26:
   plan + setup: might use MATLAB, Code, Arduino, C
-  
+  not sure where to start
